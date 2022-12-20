@@ -12,3 +12,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [ReactNative] (https://https://reactnative.dev/)
 - [Expo Go] (https://expo.dev/)
 
+## Demonstração
+
+
+![homepage](https://user-images.githubusercontent.com/72363220/208559564-0da7f557-98de-48f9-9b11-b92f5ca8717c.jpeg)
